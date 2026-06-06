@@ -1,6 +1,6 @@
 # Hey, I'm Steph 👋
 
-I'm an aspiring IT professional based in Winnipeg, MB, working toward a career in IT Security. I hold a **CompTIA A+ certification** and spend a lot of my time building and breaking things in my home lab to develop real, hands-on experience.
+I'm an aspiring IT professional based in Winnipeg, MB, working toward a career in IT. I hold a **CompTIA A+ certification** and spend a lot of my time building and breaking things in my home lab to develop real, hands-on experience.
 
 My background is in customer service and kitchen work, which taught me how to troubleshoot under pressure and communicate clearly — skills I now apply to IT. I'm self-directed, curious, and focused on learning by doing.
 
