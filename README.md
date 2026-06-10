@@ -20,7 +20,12 @@ Built a functional Active Directory environment using Windows Server on a local 
 **Skills demonstrated:** Identity & access management, Group Policy, Windows Server administration
 
 ---
-
+### 🛡️ Wazuh SIEM — Security Monitoring & Log Collection
+Deployed a Wazuh SIEM stack on my home lab server using Docker Compose, running the manager, indexer, and dashboard as a single-node setup on Ubuntu Server. Configured a Wazuh agent on the host machine to begin collecting and correlating system logs centrally. Currently expanding to connect additional endpoints including my Active Directory VM.
+ 
+**Skills demonstrated:** SIEM deployment, log collection, Docker, Linux, security monitoring, endpoint agent configuration
+ 
+---
  
 ### 🌐 Pi-hole — Network-Wide DNS Server
 Deployed Pi-hole as the DNS server for my entire home network, routing all DNS queries through it. Configured router DHCP settings to point all devices to Pi-hole as their DNS resolver. Lets me enforce filtering at the network level rather than on each device.
