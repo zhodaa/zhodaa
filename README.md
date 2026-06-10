@@ -29,6 +29,12 @@ Deployed Pi-hole as the DNS server for my entire home network, routing all DNS q
  
 ---
 
+### 🔓 DVWA — Web Application Vulnerability Practice
+Deployed Damn Vulnerable Web Application in Docker to practice identifying and exploiting common web vulnerabilities in a safe, controlled environment. Worked through SQL injection, cross-site scripting (XSS), file upload vulnerabilities, and brute force attacks hands-on — seeing how each vulnerability works from the attacker's perspective to better understand how to defend against them.
+ 
+**Skills demonstrated:** Web application security, SQL injection, XSS, file upload exploitation, brute force attacks, Docker, Linux
+ 
+---
 
 ### 🐳 Docker & Linux Home Lab
 Running a self-hosted server environment on Linux using Docker and Docker Compose. Manage multiple containerized services, maintain uptime, and troubleshoot issues as they come up. This is my primary hands-on environment for learning and experimenting.
@@ -76,7 +82,6 @@ Repurposed an HP EliteDesk Mini into a dedicated home lab server. Performed hard
 ## 🎯 Currently Working On
 
 - CompTIA Security+
-- DVWA (Damn Vulnerable Web App) — vulnerability assessment writeup
 - TryHackMe SOC Level 1 path
 
 ---
