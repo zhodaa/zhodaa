@@ -85,8 +85,8 @@ Repurposed an HP EliteDesk Mini into a dedicated home lab server. Performed hard
 ---
 
 ## 🎯 Currently Working On
-
+- CompTIA Network+
 - CompTIA Security+
-- TryHackMe SOC Level 1 path
+- TryHackMe SOC Level 2
 
 ---
