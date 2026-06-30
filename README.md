@@ -17,7 +17,7 @@ My background is in customer service and kitchen work, which taught me how to tr
 ### 🔐 Active Directory Home Lab
 Built a functional Active Directory environment using Windows Server on a local VM. Configured users, groups, organizational units, and Group Policy Objects to enforce security baselines including password policies, and account lockout thresholds.
 
-**Skills demonstrated:** Identity & access management, Group Policy, Windows Server administration
+**Skills demonstrated:** Identity & access management, Windows Server administration
 
 ---
 ### 🛡️ Wazuh SIEM — Security Monitoring & Log Collection
