@@ -1,0 +1,195 @@
+# 📁 Projects
+
+---
+
+## 🔐 Active Directory Home Lab
+
+<p align="center">
+  <img src="images/active-directory.png" width="900">
+</p>
+
+Built a functional Active Directory environment using Windows Server in a virtualized lab environment.
+
+Configured users, groups, organizational units, and Group Policy Objects (GPOs) to simulate a small business environment. Implemented security policies including password requirements and account lockout settings.
+
+**Skills demonstrated**
+- Active Directory
+- Windows Server Administration
+- Group Policy
+- Identity & Access Management
+- User Administration
+
+---
+
+## 🛡️ Wazuh SIEM — Security Monitoring & Log Collection
+
+<p align="center">
+  <img src="images/wazuh-dashboard.png" width="900">
+</p>
+
+Deployed a Wazuh SIEM environment using Docker Compose on Ubuntu Server. Configured the Wazuh manager, indexer, and dashboard as a single-node deployment.
+
+Configured endpoint monitoring and centralized log collection. Currently expanding the environment by connecting additional endpoints, including my Active Directory lab.
+
+**Skills demonstrated**
+- SIEM Deployment
+- Security Monitoring
+- Log Collection
+- Docker
+- Linux Administration
+- Endpoint Management
+
+---
+
+## 🐳 Docker & Linux Home Lab
+
+<p align="center">
+  <img src="images/docker-containers.png" width="900">
+</p>
+
+Built and maintain a self-hosted Linux server environment using Docker and Docker Compose.
+
+Host and manage multiple containerized services, troubleshoot application issues, maintain service availability, and continuously test new technologies in a controlled environment.
+
+This lab serves as my primary environment for practicing real-world systems administration and troubleshooting.
+
+**Skills demonstrated**
+- Linux Administration
+- Docker
+- Docker Compose
+- Containerization
+- Troubleshooting
+- Service Management
+
+---
+
+## 🌐 Pi-hole — Network-Wide DNS Filtering
+
+<p align="center">
+  <img src="images/pihole-dashboard.png" width="900">
+</p>
+
+Deployed Pi-hole as a network-wide DNS resolver to manage and filter DNS requests across my home network.
+
+Configured router DHCP settings to direct network traffic through Pi-hole and practiced DNS troubleshooting and network-level filtering.
+
+**Skills demonstrated**
+- DNS
+- DHCP
+- Networking
+- Linux
+- Network Troubleshooting
+
+---
+
+## 🔒 VPN & Network Configuration
+
+<p align="center">
+  <img src="images/vpn.png" width="900">
+</p>
+
+Configured VPN access within my home network to practice secure remote connectivity.
+
+Worked with routing, firewall rules, and traffic flow to better understand secure network communication.
+
+**Skills demonstrated**
+- VPN Configuration
+- Routing
+- Networking
+- Firewall Concepts
+- Security Fundamentals
+
+---
+
+## 🏠 Homarr — Homelab Dashboard
+
+<p align="center">
+  <img src="images/homarr-dashboard.png" width="900">
+</p>
+
+Deployed Homarr as a centralized dashboard for managing my home lab services.
+
+Integrated Docker containers including Jellyfin, Pi-hole, and other self-hosted applications into one interface for easier monitoring and organization.
+
+**Skills demonstrated**
+- Docker Compose
+- Linux Administration
+- Self-hosted Services
+- Service Management
+- Documentation
+
+---
+
+## 🔓 DVWA — Web Application Security Practice
+
+<p align="center">
+  <img src="images/dvwa.png" width="900">
+</p>
+
+Deployed Damn Vulnerable Web Application (DVWA) using Docker to safely practice common web application vulnerabilities.
+
+Worked through SQL injection, cross-site scripting (XSS), brute-force attacks, and file upload vulnerabilities.
+
+**Skills demonstrated**
+- Web Security
+- Docker
+- Linux
+- Vulnerability Testing
+- Cybersecurity Fundamentals
+
+---
+
+## 🎬 Jellyfin Media Server
+
+<p align="center">
+  <img src="images/jellyfin.png" width="900">
+</p>
+
+Built and maintain a self-hosted Jellyfin media server running in Docker on Linux.
+
+Configured users, maintained remote access, and managed ongoing service administration.
+
+**Skills demonstrated**
+- Docker
+- Linux
+- User Management
+- Service Administration
+- Remote Access
+
+---
+
+## 📡 Cisco Packet Tracer — Network Design
+
+<p align="center">
+  <img src="images/packet-tracer.png" width="900">
+</p>
+
+Designed and simulated enterprise-style networks using Cisco Packet Tracer.
+
+Built network topologies while practicing routing, switching, subnetting, and device communication.
+
+**Skills demonstrated**
+- Network Design
+- Routing
+- Switching
+- Cisco Networking
+- Networking Fundamentals
+
+---
+
+## 🖥️ Home Lab Server — Hardware Build & Repurpose
+
+<p align="center">
+  <img src="images/homelab-server.jpg" width="900">
+</p>
+
+Repurposed an HP EliteDesk Mini into a dedicated home lab server.
+
+Performed hardware upgrades and configured the system to host my Linux server and Docker environment.
+
+**Skills demonstrated**
+- Hardware Troubleshooting
+- Hardware Upgrades
+- Linux Installation
+- Server Setup
+- Infrastructure
