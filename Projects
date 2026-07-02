@@ -4,9 +4,6 @@
 
 ## 🔐 Active Directory Home Lab
 
-<p align="center">
-  <img src="images/active-directory.png" width="900">
-</p>
 
 Built a functional Active Directory environment using Windows Server in a virtualized lab environment.
 
@@ -43,10 +40,6 @@ Configured endpoint monitoring and centralized log collection. Currently expandi
 
 ## 🐳 Docker & Linux Home Lab
 
-<p align="center">
-  <img src="images/docker-containers.png" width="900">
-</p>
-
 Built and maintain a self-hosted Linux server environment using Docker and Docker Compose.
 
 Host and manage multiple containerized services, troubleshoot application issues, maintain service availability, and continuously test new technologies in a controlled environment.
@@ -65,9 +58,6 @@ This lab serves as my primary environment for practicing real-world systems admi
 
 ## 🌐 Pi-hole — Network-Wide DNS Filtering
 
-<p align="center">
-  <img src="images/pihole-dashboard.png" width="900">
-</p>
 
 Deployed Pi-hole as a network-wide DNS resolver to manage and filter DNS requests across my home network.
 
@@ -84,9 +74,6 @@ Configured router DHCP settings to direct network traffic through Pi-hole and pr
 
 ## 🔒 VPN & Network Configuration
 
-<p align="center">
-  <img src="images/vpn.png" width="900">
-</p>
 
 Configured VPN access within my home network to practice secure remote connectivity.
 
@@ -103,9 +90,6 @@ Worked with routing, firewall rules, and traffic flow to better understand secur
 
 ## 🏠 Homarr — Homelab Dashboard
 
-<p align="center">
-  <img src="images/homarr-dashboard.png" width="900">
-</p>
 
 Deployed Homarr as a centralized dashboard for managing my home lab services.
 
@@ -122,9 +106,6 @@ Integrated Docker containers including Jellyfin, Pi-hole, and other self-hosted 
 
 ## 🔓 DVWA — Web Application Security Practice
 
-<p align="center">
-  <img src="images/dvwa.png" width="900">
-</p>
 
 Deployed Damn Vulnerable Web Application (DVWA) using Docker to safely practice common web application vulnerabilities.
 
@@ -141,9 +122,6 @@ Worked through SQL injection, cross-site scripting (XSS), brute-force attacks, a
 
 ## 🎬 Jellyfin Media Server
 
-<p align="center">
-  <img src="images/jellyfin.png" width="900">
-</p>
 
 Built and maintain a self-hosted Jellyfin media server running in Docker on Linux.
 
@@ -160,10 +138,6 @@ Configured users, maintained remote access, and managed ongoing service administ
 
 ## 📡 Cisco Packet Tracer — Network Design
 
-<p align="center">
-  <img src="images/packet-tracer.png" width="900">
-</p>
-
 Designed and simulated enterprise-style networks using Cisco Packet Tracer.
 
 Built network topologies while practicing routing, switching, subnetting, and device communication.
@@ -179,9 +153,6 @@ Built network topologies while practicing routing, switching, subnetting, and de
 
 ## 🖥️ Home Lab Server — Hardware Build & Repurpose
 
-<p align="center">
-  <img src="images/homelab-server.jpg" width="900">
-</p>
 
 Repurposed an HP EliteDesk Mini into a dedicated home lab server.
 
