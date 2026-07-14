@@ -130,6 +130,7 @@ Hardware troubleshooting, system upgrades, installation, server setup, hardware 
 
 # 📜 Certifications
 
+* **CompTIA Network+ - In Progress
 * **CompTIA A+** — 2025
 
 ---
